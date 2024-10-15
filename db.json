@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "marioRossi",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "giuliaBianchi",
+      "password": "mypassword"
+    },
+    {
+      "id": "3",
+      "username": "luigiVerdi",
+      "password": "securePass"
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "email": "mario.rossi@example.com",
+      "userId": 1
+    },
+    {
+      "nome": "Giulia",
+      "cognome": "Bianchili",
+      "email": "giulia.bianchili@example.com",
+      "id": "2",
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "nome": "Luigi",
+      "cognome": "Verdi",
+      "email": "luigi.verdi@example.com",
+      "userId": 3
+    },
+    {
+      "nome": "Davide ",
+      "cognome": "Angelozzi",
+      "email": "kino@gmail.com",
+      "id": "8dec",
+      "userId": "2"
+    },
+    {
+      "id": "6ffe",
+      "nome": "Lorenzo",
+      "cognome": "Stuppa",
+      "email": "Ariston@gmail.com",
+      "userId": "1"
+    }
+  ]
+}
